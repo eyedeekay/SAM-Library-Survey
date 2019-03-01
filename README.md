@@ -118,7 +118,8 @@ Search Query: ```"sam3 filename:*.go -org:i2p"```
  * https://github.com/i2pfs/mount.i2pfs
  * https://github.com/eyedeekay/samrtc (both dead and a silly idea. I think I was drinking.)
  * https://github.com/eyedeekay/i2pkeys
- * https://github.com/eyedeekay/sam3-multiaddr
+ * https://github.com/eyedeekay/sam3-multiaddr (non-standard implementation used outside of main project)
+   - *https://github.com/multiformats/go-mulitaddr for official version*
 
 Golang projects containing their own SAM tooling
 ------------------------------------------------
