@@ -4,7 +4,12 @@ SAM-Library-Survey
 Attempting to determine the usage of the various SAM libraries across github and
 other platforms. Presence on this page merely indicates the inclusion of an i2p
 library in a program. It does not necessarily indicate that i2p is in use or how
-i2p used. As of Feb 22, 2019 it has undergone only the most minimal of curation.
+i2p used. As of March, 01 2019 it has undergone only the most minimal of
+curation to remove duplicates. This is a work-in-progress.
+
+*Contributions from the community are highly encouraged. If you know about an*
+*i2p-related project you think should be included on this list, file an issue*
+*here or visit the reddit thread and join the conversation there.*
 
 C
 =
@@ -121,8 +126,51 @@ Search Query: ```"sam3 filename:*.go -org:i2p"```
  * https://github.com/eyedeekay/sam3-multiaddr (non-standard implementation used outside of main project)
    - *https://github.com/multiformats/go-mulitaddr for official version*
 
-Golang projects containing their own SAM tooling
-------------------------------------------------
+Go projects containing their own SAM tooling
+--------------------------------------------
 
  * https://github.com/majestrate/XD
+
+Python
+======
+
+Github Repositories Mentioning [i2plib](https://github.com/l-n-s/i2plib)
+------------------------------------------------------------------------
+
+SAM version available: 3.1 only
+
+Search Query: ```"import i2plib" language:python```
+
+ * None yet that I could find, which is a real shame. It's a good library.
+
+Github Repositories Mentioning [i2p.socket](https://github.com/majestrate/i2p.socket)
+-------------------------------------------------------------------------------------
+
+Search Query: ```"from i2p import socket"```
+
+ * https://github.com/majestrate/i2p-tools
+ * https://github.com/majestrate/python-i2cp
+ * https://github.com/NoYouShutup/CryptMeme
+
+Github Repositories Mentioning [txi2p](https://github.com/str4d/txi2p)
+----------------------------------------------------------------------
+
+Search Query: ```"from txi2p"```
+
+ * https://github.com/vu3rdd/tahoe-lafs-debian-pkg
+ * https://github.com/tahoe-lafs/tahoe-lafs
+ * https://github.com/warner/foolscap
+ * https://github.com/majestrate/i2p-tools
+ * https://github.com/rbif/transi2p
+
+Github Repositories Mentioning [leaflet](https://github.com/MuxZeroNet/leaflet)
+-------------------------------------------------------------------------------
+
+Javascript
+==========
+
+Github Repositories Mentioning [node-i2p](https://github.com/redhog/node-i2p)
+-----------------------------------------------------------------------------
+
+Need to look on gitlab. I bet they're all there.
 
