@@ -4,8 +4,8 @@ SAM-Library-Survey
 Attempting to determine the usage of the various SAM libraries across github and
 other platforms. Presence on this page merely indicates the inclusion of an i2p
 library in a program. It does not necessarily indicate that i2p is in use or how
-i2p used. As of March, 01 2019 it has undergone only the most minimal of
-curation to remove duplicates. This is a work-in-progress.
+i2p used. As of July, 08 2019 it has undergone only the most minimal of curation
+to remove duplicates. This is a work-in-progress.
 
 *Contributions from the community are highly encouraged. If you know about an*
 *i2p-related project you think should be included on this list, file an issue*
