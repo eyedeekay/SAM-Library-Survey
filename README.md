@@ -90,6 +90,15 @@ Search Query: ```"i2psam filename:*.hpp filename:*.h -org:i2p"```
  * https://github.com/nihilistcoin/nihilistcoin
  * https://github.com/nonlinear-chaos/i2pchat
 
+C-Sharp
+=======
+
+SAM version unknown. 3.0 likely.
+
+Search query: ```"using I2PNet;"```
+
+ * I found no applications other than the sample.
+
 Go
 ==
 
@@ -130,6 +139,16 @@ Go projects containing their own SAM tooling
 --------------------------------------------
 
  * https://github.com/majestrate/XD
+
+Haskell
+=======
+
+Github Repositories Mentioning [haskell-network-anonymous-i2p](https://github.com/solatis/haskell-network-anonymous-i2p)
+------------------------------------------------------------------------------------------------------------------------
+
+Search Query: ```i2p language:Haskell```
+
+ * *Possibly* [haskell-libtorrent](https://github.com/eryx67/haskell-libtorrent)
 
 Python
 ======
@@ -174,3 +193,20 @@ Github Repositories Mentioning [node-i2p](https://github.com/redhog/node-i2p)
 
 Need to look on gitlab. I bet they're all there.
 
+Ruby
+====
+
+i2p.rb is deprecated by the author
+----------------------------------
+
+Rust
+====
+
+Github repositories mentioning [i2p-rs](https://github.com/i2p/i2p-rs)
+----------------------------------------------------------------------
+
+ * unknown
+
+There ios a branch of the grin cryptocurrency which may use it
+
+  * https://github.com/ignopeverell/grin/tree/i2p
